@@ -1,6 +1,10 @@
 first move
 <<<<<<< HEAD
 I am thirsty
+<<<<<<< HEAD
+modify lab7_0 from test2
+=======
 =======
 modify lab7_0 from test1
 >>>>>>> test1
+>>>>>>> master
